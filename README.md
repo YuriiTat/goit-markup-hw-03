@@ -1,3 +1,3 @@
-# goit69-homework02
- goit69-homework02
-https://yuriitat.github.io/goit-markup-hw-02-v2/
+# goit69-homework03
+ goit69-homework03
+https://yuriitat.github.io/goit-markup-hw-03/
